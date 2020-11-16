@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt5r0Gcs6spBeoIMF0JD1qd++JKxRrxUMyponNjh9KJR+TTJ2G/YP6cEQ41KvR762IlFCthgJVh1BDo+e0ekFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton Pylypenko\\Desktop\\EpamProjects\\FINAL PROJECT\\shop\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

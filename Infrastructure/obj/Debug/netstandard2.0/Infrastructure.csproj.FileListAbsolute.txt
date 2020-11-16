@@ -1,0 +1,12 @@
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

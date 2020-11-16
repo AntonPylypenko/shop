@@ -1,0 +1,9 @@
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Anton Pylypenko\Desktop\EpamProjects\FINAL PROJECT\shop\Core\obj\Debug\netstandard2.0\Core.pdb
